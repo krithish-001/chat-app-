@@ -1,0 +1,38 @@
+# Environment variables
+.env
+**/.env
+
+# Dependencies
+node_modules/
+**/node_modules/
+package-lock.json
+**/package-lock.json
+
+# Production builds
+build/
+dist/
+**/build/
+**/dist/
+
+# Logs
+*.log
+npm-debug.log*
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Uploads (temporary files)
+uploads/
+**/uploads/
+
+# Testing
+coverage/
